@@ -10,3 +10,5 @@ Compilation instructions:
   2. Enter the database name where you're inputting the student table and Enter the password of your pgAdmin 4 settings to connect to local hosting 
   
   3. To test the functions, you can simply uncomment the shown functions and run the command "node app.js" in the terminal
+
+Video link: https://www.youtube.com/watch?v=0RnZEVm4OBc
