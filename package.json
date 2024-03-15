@@ -1,0 +1,22 @@
+{
+  "name": "3005_a3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ibrahimsalman01/3005_A3.git"
+  },
+  "author": "Ibrahim Salman 101248773",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ibrahimsalman01/3005_A3/issues"
+  },
+  "homepage": "https://github.com/Ibrahimsalman01/3005_A3#readme",
+  "dependencies": {
+    "pg": "^8.11.3"
+  }
+}
