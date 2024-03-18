@@ -2,7 +2,7 @@ COMP 3005
 Assignment 3 Question 1
 Ibrahim Salman
 101248773
-3/17/24
+3/18/24
 
 Compilation instructions:
   1. After cloning the repository run the command "npm install" in the terminal to download the node modules
@@ -11,4 +11,4 @@ Compilation instructions:
   
   3. To test the program run the command "npm run start" in the terminal
 
-Video link: https://youtu.be/tBjYBD0cmt4
+Video link: https://www.youtube.com/watch?v=eLwQGnk79ws
